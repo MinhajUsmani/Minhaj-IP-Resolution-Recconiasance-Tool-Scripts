@@ -1,0 +1,124 @@
+Server:		192.168.38.213
+Address:	192.168.38.213#53
+
+** server can't find 103-31-81-80.multinet.com.pk: NXDOMAIN
+
+Server:		192.168.38.213
+Address:	192.168.38.213#53
+
+** server can't find 103-31-81-81.multinet.com.pk: NXDOMAIN
+
+Server:		192.168.38.213
+Address:	192.168.38.213#53
+
+** server can't find 103-31-81-85.multinet.com.pk: NXDOMAIN
+
+Server:		192.168.38.213
+Address:	192.168.38.213#53
+
+** server can't find 103-31-81-88.multinet.com.pk: NXDOMAIN
+
+Server:		192.168.38.213
+Address:	192.168.38.213#53
+
+** server can't find 103-31-81-89.multinet.com.pk: NXDOMAIN
+
+Server:		192.168.38.213
+Address:	192.168.38.213#53
+
+** server can't find 103-31-81-92.multinet.com.pk: NXDOMAIN
+
+Server:		192.168.38.213
+Address:	192.168.38.213#53
+
+** server can't find 103-31-81-93.multinet.com.pk: NXDOMAIN
+
+Server:		192.168.38.213
+Address:	192.168.38.213#53
+
+** server can't find 103-31-81-94.multinet.com.pk: NXDOMAIN
+
+Server:		192.168.38.213
+Address:	192.168.38.213#53
+
+** server can't find 103-31-81-95.multinet.com.pk: NXDOMAIN
+
+Server:		192.168.38.213
+Address:	192.168.38.213#53
+
+** server can't find bp.multinet.com.pk: NXDOMAIN
+
+Server:		192.168.38.213
+Address:	192.168.38.213#53
+
+** server can't find mail.multinet.com.pk: NXDOMAIN
+
+Server:		192.168.38.213
+Address:	192.168.38.213#53
+
+Non-authoritative answer:
+Name:	mail1.multinet.com.pk
+Address: 202.141.239.243
+
+Server:		192.168.38.213
+Address:	192.168.38.213#53
+
+Non-authoritative answer:
+Name:	mail2.multinet.com.pk
+Address: 202.141.239.244
+
+Server:		192.168.38.213
+Address:	192.168.38.213#53
+
+Non-authoritative answer:
+Name:	mail3.multinet.com.pk
+Address: 202.141.239.245
+
+Server:		192.168.38.213
+Address:	192.168.38.213#53
+
+Non-authoritative answer:
+Name:	mail4.multinet.com.pk
+Address: 202.141.239.246
+
+Server:		192.168.38.213
+Address:	192.168.38.213#53
+
+** server can't find mail7.multinet.com.pk: NXDOMAIN
+
+Server:		192.168.38.213
+Address:	192.168.38.213#53
+
+Non-authoritative answer:
+Name:	mail8.multinet.com.pk
+Address: 202.141.239.200
+
+Server:		192.168.38.213
+Address:	192.168.38.213#53
+
+** server can't find mpplexch2016b.multinet.com.pk: NXDOMAIN
+
+Server:		192.168.38.213
+Address:	192.168.38.213#53
+
+** server can't find mpplexch2016c.multinet.com.pk: NXDOMAIN
+
+Server:		192.168.38.213
+Address:	192.168.38.213#53
+
+Non-authoritative answer:
+Name:	mpplzmc1.multinet.com.pk
+Address: 202.141.239.244
+
+Server:		192.168.38.213
+Address:	192.168.38.213#53
+
+Non-authoritative answer:
+Name:	mshelpdesk.multinet.com.pk
+Address: 103.31.80.62
+
+Server:		192.168.38.213
+Address:	192.168.38.213#53
+
+** server can't find webmail.multinet.com.pk: NXDOMAIN
+
